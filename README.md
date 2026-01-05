@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Bmy_rCX3)
 # WI25-Assignment1
 ## Data Structures: Sequence<T> Implementation
-**Due Date: January 13th, 2025, 11:30 PM PST**
+**Due Date: January 12th, 2026, 11:30 PM PST**
 
 ## Overview
 In this assignment, you will implement two different custom data structures that conform to the `Sequence` interface:
